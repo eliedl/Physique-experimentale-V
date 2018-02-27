@@ -1,0 +1,7 @@
+
+Detector #1      ACQ 26-févr.-2018 at 16:02:08   RT = 903.1   LT = 902.3
+            VCH-0609 MCB 129
+            No sample description was entered
+ROI#   RANGE( keV)    GROSS      NET   +/-  CENTROID  FWHM FW(1/10) LIBRARY ( keV)       cA    +/-
+ 1  456.44  555.85     2502      977   210   526.67   0.85   4.27   Xe-135M 526.56      1.35   0.29
+ 2  592.95  679.46     1407      242   169   621.06   1.79   2.86   J-132   621.20     16.98  11.85

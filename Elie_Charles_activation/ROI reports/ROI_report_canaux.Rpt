@@ -1,0 +1,9 @@
+
+Detector #1      ACQ 26-févr.-2018 at 13:56:46   RT = 476.1   LT = 464.5
+            VCH-0609 MCB 129
+            No sample description was entered
+ROI#   RANGE(    )    GROSS      NET   +/-  CENTROID  FWHM FW(1/10) LIBRARY (    )       cA    +/-
+ 1  203.00  286.00    41848    17278   580   241.08  24.71  51.87  uncal
+ 2 1086.00 1281.00    74697    39482  1074  1184.59  77.15 138.28  uncal
+ 3 1928.00 2163.00    56235    34602   929  2054.07  92.80 181.47  uncal
+ 4 2196.00 2467.00    45366    34214   727  2324.37 110.25 205.58  uncal
